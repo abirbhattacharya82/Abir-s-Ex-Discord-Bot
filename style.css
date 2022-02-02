@@ -1,0 +1,49 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+    background-color: black;
+}
+.Container1
+{
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
+.Image
+{
+    width: 90px;
+}
+.Image img
+{
+    width: 100%;
+    border-radius: 100%;
+}
+.Heading
+{
+    color: green;
+    text-align: center;
+    font-size: 100px;
+}
+.Subheading
+{
+    text-align: center;
+    color: white;
+}
+.Subheading button
+{
+    color: white;
+    border: none;
+    background-color: green;
+    padding: 1%;
+}
+.Footer
+{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 8%;
+}
